@@ -1,1 +1,1 @@
-# Telegram Bot - Chat Manager
+# Telegram Bot - Group Guardian
